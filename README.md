@@ -38,7 +38,7 @@ Following EDA was conducted:
 ## Results
 The performance of the linear regression model was evaluated using various metrics, yielding the following results:
 
--**Mean Absolute Error (MAE)**: This metric reflects the average magnitude of errors in the model's predictions, with an average absolute deviation of 0.854 percentage points from the actual scores.
--**Mean Squared Error**: Its value is 0.748. The MSE quantifies the average squared difference between predicted and actual values, indicating a relatively low overall error.
+-**Mean Absolute Error (MAE)**: This metric reflects the average magnitude of errors in the model's predictions, with an average absolute deviation of 0.854 percentage points from the actual scores. <br/>
+-**Mean Squared Error**: Its value is 0.748. The MSE quantifies the average squared difference between predicted and actual values, indicating a relatively low overall error. <br/>
 -**R-squared (R²)**: This metric demonstrates that approximately 95.4% of the variance in student scores is explained by the number of study hours, highlighting the model's strong predictive performance.
 
