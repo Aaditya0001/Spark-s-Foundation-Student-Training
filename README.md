@@ -7,4 +7,13 @@ This session provided a rigorous, experiential learning framework aimed at equip
 - `numpy`: For numerical computations and array manipulations.
 - `pandas`: For data manipulation and analysis.
 - `scikit-learn`: For machine learning algorithms and evaluation metrics.
-- 'matplotlib': For data visualization.
+- `Matplotlib`: For data visualization.
+
+```python
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import r2_score
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+```
