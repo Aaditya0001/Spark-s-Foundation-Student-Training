@@ -1,2 +1,10 @@
 # Spark-s-Foundation-Student-Training
-This repository contains the source code and resources from my training session conducted as part of the Sparks Foundation Internship program. The focus of this session was to introduce students to using Jupyter Notebook effectively and understanding the basics of supervised machine learning, with an emphasis on linear regression.
+
+## Introduction
+This session provided a rigorous, experiential learning framework aimed at equipping participants with advanced competencies in data science and machine learning. This training module emphasized foundational proficiencies in leveraging Jupyter Notebook and deploying supervised learning methodologies. The curriculum was meticulously designed to synthesize theoretical constructs with applied problem-solving, demonstrated through a focused case study employing linear regression as an analytic tool.
+
+##Dependencies
+- `numpy`: For numerical computations and array manipulations.
+- `pandas`: For data manipulation and analysis.
+- `scikit-learn`: For machine learning algorithms and evaluation metrics.
+- 'matplotlib': For data visualization.
