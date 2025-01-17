@@ -3,6 +3,9 @@
 ## Introduction
 This session provided a rigorous, experiential learning framework aimed at equipping participants with advanced competencies in data science and machine learning. This training module emphasized foundational proficiencies in leveraging Jupyter Notebook and deploying supervised learning methodologies. The curriculum was meticulously designed to synthesize theoretical constructs with applied problem-solving, demonstrated through a focused case study employing linear regression as an analytic tool.
 
+## Problem Statement:
+In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
+
 ## Dependencies
 - `numpy`: For numerical computations and array manipulations.
 - `pandas`: For data manipulation and analysis.
